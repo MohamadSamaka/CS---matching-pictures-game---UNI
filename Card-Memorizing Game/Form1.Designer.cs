@@ -34,9 +34,7 @@ namespace Card_Memorizing_Game
             this.Meduim = new System.Windows.Forms.Button();
             this.Easy = new System.Windows.Forms.Button();
             this.ModeTile = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.ModeMenu.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // ModeMenu
@@ -99,20 +97,11 @@ namespace Card_Memorizing_Game
             this.ModeTile.TabIndex = 0;
             this.ModeTile.Text = "Choose the diffculity:";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(671, 73);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(122, 98);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(850, 621);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.ModeMenu);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -120,7 +109,6 @@ namespace Card_Memorizing_Game
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ModeMenu.ResumeLayout(false);
             this.ModeMenu.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -131,7 +119,6 @@ namespace Card_Memorizing_Game
         private System.Windows.Forms.Button Meduim;
         private System.Windows.Forms.Button Easy;
         private System.Windows.Forms.Label ModeTile;
-        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

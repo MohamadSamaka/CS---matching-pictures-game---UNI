@@ -73,7 +73,7 @@ namespace Card_Memorizing_Game
                 PictureBoxes.Add(new PictureBox());
                 PictureBoxes[i].Image = Image.FromFile(PicsPaths[12]);
             }
-            // Adding this label to form 
+
             this.PictureBoxes[0].Size = new System.Drawing.Size(100, 100);
             this.PictureBoxes[0].SizeMode = PictureBoxSizeMode.Zoom;
             this.PictureBoxes[0].Location = new Point(200, 200);
