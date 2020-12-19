@@ -1,0 +1,11 @@
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\bin\Debug\Card-Memorizing Game.exe.config
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\bin\Debug\Card-Memorizing Game.exe
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\bin\Debug\Card-Memorizing Game.pdb
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card-Memorizing Game.csprojAssemblyReference.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card_Memorizing_Game.Form1.resources
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card_Memorizing_Game.Properties.Resources.resources
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card-Memorizing Game.csproj.GenerateResource.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card-Memorizing Game.csproj.CoreCompileInputs.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card-Memorizing Game.exe
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card-Memorizing Game.pdb
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\Card-Memorizing Game\Card-Memorizing Game\obj\Debug\Card_Memorizing_Game.Form2.resources
