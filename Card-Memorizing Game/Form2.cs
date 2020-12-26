@@ -43,6 +43,5 @@ namespace Card_Memorizing_Game
         {
             label1.Text = str;
         }
-
     }
 }
